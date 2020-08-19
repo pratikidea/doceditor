@@ -45,6 +45,8 @@ Add editor control
 [toolbarBg]="'#e7edee'"
 [options]="options"></i-docsigneditor>
 
+
+pdfSrc="<path/to/pdf/file.pdf>". // in ts file
 ```
 
 Viewer Control
