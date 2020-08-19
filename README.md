@@ -36,6 +36,21 @@ add in index.html in head section
 
 ```
 
+
+Import Module
+```
+import { iEditorModule } from "esigndoccontrol";
+
+
+@NgModule({
+  
+  imports: [
+    iEditorModule
+  ] 
+})
+
+```
+
 Add editor control
 ```
 <i-docsigneditor 
