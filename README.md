@@ -1,4 +1,11 @@
 # doceditor
+Dipendencies
+```
+JQuery
+ng2-pdf-viewer
+signature_pad
+
+```
 
 add in angular.json file
 ```
