@@ -39,3 +39,9 @@ Add editor control
 [options]="options"></i-docsigneditor>
 
 ```
+
+Viewer Control
+```
+Comming Soon
+
+```
