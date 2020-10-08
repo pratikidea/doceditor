@@ -21,7 +21,8 @@ add in angular.json file
               "node_modules/esigndoccontrol/resources/js/jquery.min.js",
               "node_modules/esigndoccontrol/resources/js/jquery-ui.min.js",
               "node_modules/esigndoccontrol/resources/js/jquery.contextMenu.min.js",
-              "node_modules/esigndoccontrol/resources/js/jquery.ui.position.min.js"
+              "node_modules/esigndoccontrol/resources/js/jquery.ui.position.min.js",
+              "node_modules/esigndoccontrol/resources/js/plugins.js"
             ]
 ```
             
